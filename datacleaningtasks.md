@@ -7,7 +7,7 @@ Date: 01.10.2020
 
 1. Adjust Values: Open Refine and load in your browser. You should see `127.0.01.XXXX` in your address bar. Add `/preferences` to this address and adjust the `value` limit to 10,000. This means that we can perform operations on larger datasets.
 
-2. Get Data: Go to the LIS 545 github repository, and find the `Data` tab. Download the file under `DataCleaning` titled `Building_Permits.csv` This is a from the City of Seattle open data portal (read more about it at [BUILDING PERMITS: CURRENT](https://data.seattle.gov/Permitting/Building-Permits-Current/mags-97de))
+2. Get Data: Go to the LIS 545 github repository, and find the `Data` tab. Download the file under `data` titled `Building_Permits.csv` ([link](https://github.com/nniiicc/LIS545-Wi2020/blob/master/data/Building_Permits___Current.csv)) This is a from the City of Seattle open data portal (read more about it at [BUILDING PERMITS: CURRENT](https://data.seattle.gov/Permitting/Building-Permits-Current/mags-97de))
 
 3. Load Data: Upload this data to Refine by selecting the file form your desktop (or whatever directory you downloaded to). Be sure to select ` commas (.csv)` as the upload option.
 
